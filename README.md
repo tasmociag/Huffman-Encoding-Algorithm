@@ -1,2 +1,2 @@
 # Huffman-Encoding-Algorithm
-Java implementation of AVL Tree with Enhanced Index-Based Access. This project delves into creative techniques for node manipulation within the AVL tree structure. These techniques ensure efficient retrieval by index while maintaining the self-balancing properties of the classic AVL tree (efficient search, insertion, and deletion).
+Java program for data compression using Huffman coding. Optimized the internal Heap Tree structure to enhance character retrieval, improving efficiency. This project showcases expertise in Java data structures, algorithms, and performance optimization. 
